@@ -5,10 +5,10 @@
  */
 #include <LiquidCrystal.h>
 
-LiquidCrystal lcd1(12, 5, 7, 8, 9, 10); // LiquidCrystal(rs, enable, d4, d5, d6, d7)
-LiquidCrystal lcd2(12, 4, 7, 8, 9, 10);
-LiquidCrystal lcd3(12, 3, 7, 8, 9, 10);
-LiquidCrystal lcd4(12, 2, 7, 8, 9, 10);
+LiquidCrystal lcd1(12, 11, 10, 9, 8, 7); // LiquidCrystal(rs, enable, d4, d5, d6, d7)
+LiquidCrystal lcd2(12, 6, 10, 9, 8, 7);
+LiquidCrystal lcd3(12, 5, 10, 9, 8, 7);
+LiquidCrystal lcd4(12, 4, 10, 9, 8, 7);
 /*
  ***********************************************************************
  *              SETUP CONFIGURACIÓN INICIAL
